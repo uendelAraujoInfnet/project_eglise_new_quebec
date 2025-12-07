@@ -1804,6 +1804,10 @@
     background-color: #ffffff80;
   }
 
+  .bg-black {
+    background-color: #000;
+  }
+
   @supports (color: color-mix(in lab, red, red)) {
     .bg-white\/50 {
       background-color: color-mix(in oklab, var(--color-white) 50%, transparent);

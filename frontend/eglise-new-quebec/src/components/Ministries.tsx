@@ -105,7 +105,7 @@ export default function Ministries() {
             <Button variant="secondary" size="lg">
               Devenir Bénévole
             </Button>
-            <Button variant="outline" size="lg" className="text-white border-white hover:bg-white hover:text-blue-600">
+            <Button variant="outline" size="lg" className="border-white hover:bg-white hover:text-blue-600">
               Contactez un Responsable
             </Button>
           </div>
